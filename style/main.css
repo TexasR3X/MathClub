@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  font-family: "IBM Plex Mono";
+}
+
+h1 {
+  margin: 1.5rem 0 4rem 0;
+  text-align: center;
+}
+
+body {
+  background: #ceffe4;
+}
+
+.flex-container {
+  display: flex;
+  text-align: center;
+}
+.flex-container div {
+  flex-grow: 1;
+  width: 5rem;
+}
+
+math-container {
+  font-size: 2rem;
+}/*# sourceMappingURL=main.css.map */
